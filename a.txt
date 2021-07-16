@@ -2,4 +2,8 @@ hello world
 jnsu
 add
 123123
-cat a.txt!
+
+at a.txt!
+=======
+a.txt b.txt c.txt
+>>>>>>> test
